@@ -12,7 +12,7 @@ const testimonials = [
   },
   {
     name: 'Ahmed Rashid Bangoure',
-    role: 'Client fidèl',
+    role: 'Client fidèle',
     location: 'Plateau, Dakar',
     text: "En tant qu'entrepreneur, j'ai besoin d'un café qui me donne de l'énergie tout en restant naturel. IKFINII est parfait — un goût authentique sans compromis. Je commande le format 1kg chaque mois.",
     rating: 5,
