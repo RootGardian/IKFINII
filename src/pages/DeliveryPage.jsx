@@ -139,10 +139,6 @@ function DeliveryPage() {
                     <i className="far fa-clock"></i>
                     <span>{zone.delay}</span>
                   </div>
-                  <div className="zone-detail">
-                    <i className="fas fa-tag"></i>
-                    <span>{zone.cost}</span>
-                  </div>
                 </div>
               </motion.div>
             ))}
